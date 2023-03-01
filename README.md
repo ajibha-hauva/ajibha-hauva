@@ -1,8 +1,5 @@
-### Hi Developers 👋
-[![YouTube Badge]
-[![Linkedin Badge]]
-[![Website Badge]
-[![Website Badge]
+### Howdy Developers 👋
+
 
 I'm Ajibha,
 Full Stack Solution Architect
